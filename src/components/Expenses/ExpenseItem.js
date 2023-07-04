@@ -5,7 +5,6 @@ import ExpenseDate from './ExpenseDate';
 import Card from '../UI/Card.js';
 
 function ExpenseItem({date,title,amt}) {
-    // const [Title,setTitle]=useState(title);
     return (
         <li>
         <Card className='expense-item'>

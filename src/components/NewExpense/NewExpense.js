@@ -1,4 +1,4 @@
-import React,{useState} from "react"; //eta mandate na.. Emni krlam
+import React,{useState} from "react"; 
 import './NewExpense.css';
 import ExpenseForm from "./ExpenseForm";
 function NewExpence (props){
