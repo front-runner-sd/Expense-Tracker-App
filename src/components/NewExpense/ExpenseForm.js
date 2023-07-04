@@ -1,4 +1,4 @@
-import React, { useState } from "react"; //eta mandate na.. Emni krlam
+import React, { useState } from "react"; 
 import './ExpenseForm.css';
 function ExpenseForm (props){
     const [enteredTitle,setEnteredTitle]=useState('');
